@@ -4,5 +4,5 @@ export default defineConfig({
   plugins: [
     react(),
   ],
-  base: "/React-Restaurant-Site/",
+  base: "/Student-Portal/",
 });
